@@ -12,7 +12,7 @@ Gold Finder is a game where the player tries to find a certain number of gold co
 - The Help screen: displays some information about who wrote the application and some text explaining the game
 
 ### The Game Screen with a User Playing
-![](docs/playing.jpg)
+<img src = "https://github.com/Mercygoldm/Gold-Finder-Game/blob/main/docs/playing.jpg?raw=true" width="250" height = "250" />
 
 ### The Game Won Screen
-![](docs/won.jpg)
+<img src = "https://github.com/Mercygoldm/Gold-Finder-Game/blob/main/docs/won.jpg" width="250" height = "250" />
